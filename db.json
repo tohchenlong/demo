@@ -1,14 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+        {
+            "id": "1",
+            "content": "草没味 &#40;CRS&#41;"
+        },
+        {
+            "id": "2",
+            "content": "还是旦 &#40;PI&#41;"
+        },
 }
